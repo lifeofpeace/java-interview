@@ -1,3 +1,3 @@
-### JDBC学习手册 PDF
+### Java面试题
 
-在线阅读：<a href="http://itmyhome.com/jdbc-pdf" target="_blank">JDBC学习手册 PDF</a>
+在线阅读：<a href="http://itmyhome.com/java-interview/" target="_blank">Java面试题</a>
